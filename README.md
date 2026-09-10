@@ -6,7 +6,13 @@
 [![FastAPI](https://img.shields.io/badge/Backend-FastAPI%20%7C%20Python%203.14-009688.svg)](https://fastapi.tiangolo.com/)
 [![React](https://img.shields.io/badge/Frontend-React%2018%20%7C%20Vite%20%7C%20Tailwind-61DAFB.svg)](https://react.dev/)
 [![Leaflet](https://img.shields.io/badge/Mapping-Leaflet%20%7C%20OpenStreetMap-199900.svg)](https://leafletjs.com/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Live Simulation](https://img.shields.io/badge/Live%20Simulation-Click%20Here-emerald?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dharanirunku02-png.github.io/swapsmart-japan/)
+
+---
+
+### 🚀 Live Simulation Web Application
+> 🔗 **Interactive Simulation Demo**: **[https://dharanirunku02-png.github.io/swapsmart-japan/](https://dharanirunku02-png.github.io/swapsmart-japan/)**  
+> *Experience the live Tokyo Metropolitan battery swapping network, AI shortage risk prediction, and automated redistribution directly in your browser with zero installation.*
 
 ---
 
